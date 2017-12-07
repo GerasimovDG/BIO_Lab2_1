@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  BIO_lab2_1.cpp
+BIO_lab2_1.cpp(27): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+BIO_lab2_1.cpp(114): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  All 199 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  BIO_lab2_1.vcxproj -> D:\ВСЕ С УЧЕБОЙ\5 семестр\Лабы\БиоИнформатика\BIO_lab2_1\x64\Release\BIO_lab2_1.exe
+  BIO_lab2_1.vcxproj -> D:\ВСЕ С УЧЕБОЙ\5 семестр\Лабы\БиоИнформатика\BIO_lab2_1\x64\Release\BIO_lab2_1.pdb (Full PDB)
